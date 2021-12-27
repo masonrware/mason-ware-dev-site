@@ -364,14 +364,6 @@ var Sequence = /** @class */ (function () {
     return Sequence;
 }());
 
-/**
- * Tween.js - Licensed under the MIT license
- * https://github.com/tweenjs/tween.js
- * ----------------------------------------------
- *
- * See https://github.com/tweenjs/tween.js/graphs/contributors for the full list of contributors.
- * Thank you all, you're awesome!
- */
 var Tween = /** @class */ (function () {
     function Tween(_object, _group) {
         if (_group === void 0) { _group = TWEEN; }
@@ -746,14 +738,7 @@ var Tween = /** @class */ (function () {
 
 var VERSION = '18.5.0';
 
-/**
- * Tween.js - Licensed under the MIT license
- * https://github.com/tweenjs/tween.js
- * ----------------------------------------------
- *
- * See https://github.com/tweenjs/tween.js/graphs/contributors for the full list of contributors.
- * Thank you all, you're awesome!
- */
+
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
