@@ -10,11 +10,13 @@ h2 {
 	font-weight: bold;
 	color: purple;
 	background-color: black;
-	height: 170px;
-	width: 80%;
-	font-size: 150px;
-	padding: auto auto;
-
+	height: 200px;
+	width: 1000px;
+	font-size: 50px;
+	margin: 15px auto;
+	text-align: center;
+	padding-top: 100px;
+	border-radius: 20%;
 }
 
 p {
