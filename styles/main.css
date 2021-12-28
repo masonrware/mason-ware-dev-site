@@ -62,6 +62,10 @@ li {
   font: 600 15px Roboto, sans-serif;
   text-align: left;
 }
+li#bio{
+  text-align: start;
+  margin: 20px 20px;
+}
 li::before {
   content: "•";
   color: var(--primaryColor);
@@ -216,6 +220,11 @@ canvas {
 .menu-opened .menu {
   display: flex;
 }
+
+.fixed-content-header-container{
+  display: block;
+}
+
 .menu-opened .scroll-letters,
 .menu-opened .paging__page,
 .menu-opened .fixed-content-header__contact,
